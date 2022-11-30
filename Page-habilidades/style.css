@@ -1,0 +1,92 @@
+.navegacao {
+    text-align: right;
+    margin-top: 50px;
+} 
+
+a :hover {
+    transform: scale(1.1);
+    transition: all 0.8s;
+}
+
+.foto-programador {
+    text-align: right;
+    margin-top: -300px;
+    margin-right: 50px;
+}
+
+.foto-programador :hover {
+    opacity: 0.5;
+}
+
+svg {
+    fill: gray;
+    border-radius: 30px;
+    margin-top: -70px;
+}
+
+.titulo01 {
+    margin-top: -1050px;
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.titulo01 :hover {
+    opacity: 0.5;
+}
+
+.svg-logica {
+    margin-left: 500px;
+}
+
+.svg-html5 {
+    margin-left: 300px;
+}
+
+.svg-css3 {
+    margin-top: -30px;
+}
+
+.logica {
+    width: 350px;
+    font-size: 13px;
+    margin-left: 530px;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+
+.logica :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.html5 {
+    color: orange;
+    width: 400px;
+    font-size: 12px;
+    margin-left: 310px;
+    margin-top: 53px;
+    text-transform: capitalize;
+}
+
+.html5 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+.css3 {
+    font-size: 12px;
+    color: blue;
+    width: 390px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: -60px;
+    text-transform: capitalize;
+}
+
+.css3 :hover {
+    transform: scale(1.1);
+    transition: all 0.9s;
+}
+
+
